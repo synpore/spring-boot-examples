@@ -1,0 +1,25 @@
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+.project
+.settings
+.classpath
+target
+
+
+# idea # 
+.idea
+*.iml
+
+
+Servers
+.metadata
+
+
+#Mac os generated files
+.DS_Store
+.DS_Store?
