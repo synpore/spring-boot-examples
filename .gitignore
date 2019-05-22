@@ -1,3 +1,4 @@
+
 *.class
 
 # Package Files #
@@ -8,7 +9,7 @@
 .project
 .settings
 .classpath
-target
+target/
 
 
 # idea # 
@@ -23,3 +24,4 @@ Servers
 #Mac os generated files
 .DS_Store
 .DS_Store?
+
